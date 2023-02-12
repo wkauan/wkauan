@@ -36,11 +36,11 @@
     <img alt="Link to my GitHub" src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF&label=@wkauan" height="22px">
 </a>
 <a href="www.linkedin.com/in/wkauan">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/wkauan&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
 </a>
 <a href="mailto:kauanmbomfim5@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=kauanmbomfim5@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=gemail&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
 </br></br>
 
