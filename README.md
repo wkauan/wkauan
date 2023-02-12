@@ -38,7 +38,7 @@
 <a href="www.linkedin.com/in/wkauan">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
-</a>
+<a href="https://instagram.com/w.kauan__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="22px" ></a>
 <a href="mailto:kauanmbomfim5@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=gmail&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
