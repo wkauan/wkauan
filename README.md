@@ -33,7 +33,7 @@
 
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/wkauan">
-    <img alt="Link to my GitHub" src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF&label=@wkauan" height="22px">
+    <img alt="Link to my GitHub" src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF" height="22px">
 </a>
 <a href="www.linkedin.com/in/wkauan">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
