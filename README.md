@@ -35,7 +35,7 @@
 <a href="https://github.com/wkauan">
     <img alt="Link to my GitHub" src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF" height="22px">
 </a>
-<a href="www.linkedin.com/in/wkauan">
+<a href="https://linkedin.com/in/wkauan">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
 <a href="https://instagram.com/w.kauan__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="22px" ></a>
