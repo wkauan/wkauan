@@ -44,11 +44,6 @@
 </a>
 </br></br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wkauan&theme=discord&no-frame=false&no-bg=false&column=3&margin-w=15&margin-h=15" />
-</p>
-</br></br>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wkauan&bg_color=0d1117&color=6669aa&line=6768df&point=51c8ba&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </br></br>
 
