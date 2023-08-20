@@ -4,8 +4,6 @@
 </br></br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wkauan&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=9370DB&text_color=66CDAA&bg_color=0d1117" alt="Kauan Bomfim github stats" /> 
-  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkauan&layout=compact&hide_border=true&title_color=7B68EE&text_color=66CDAA&bg_color=0d1117" />
 </div>
 </br></br>
@@ -42,9 +40,6 @@
 <a href="mailto:kauanmbomfim5@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=gmail&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
-</br></br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=wkauan&bg_color=0d1117&color=6669aa&line=6768df&point=51c8ba&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </br></br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EEFF&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+your+visit!)](https://git.io/typing-svg) 
