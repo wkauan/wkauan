@@ -4,8 +4,9 @@
 </br></br>
 
 <div align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wkauan&theme=react&hide_border=false&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkauan&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wkauan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkauan&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wkauan&theme=tokyonight"/>
 </div>
 
 
